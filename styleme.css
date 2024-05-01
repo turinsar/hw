@@ -1,0 +1,198 @@
+body{
+    margin: 0%;
+    background-color: rgb(0, 119, 255);
+}
+.flex{
+    display: flex;
+}
+.menu{
+    color: white;
+}
+.big{
+    font-size: larger;
+}
+a{
+    text-decoration: none;
+    font-size: large;
+}
+.txt{
+    color: white;
+    position: absolute;
+}
+.image{
+    width: 300px;
+height: 400px;
+margin-left: 65vw;
+margin-top: 5vh;
+z-index: 6;
+
+}
+.center{
+    margin-top: 25vh;
+    margin-left: 10vw;
+    text-align: center;
+}
+.bob{
+    margin-left: 14vw;
+    margin-top: 21vh;
+
+}
+.circle{
+    border-radius: 100%;
+    background: rgb(206,231,237);
+    background: linear-gradient(90deg, rgba(206,231,237,1) 0%, rgba(255,255,255,1) 0%, rgba(88,170,255,1) 50%, rgba(0,104, 255,1)100%);
+ width: 400px;
+ height: 400px;
+position: absolute;
+margin-top: 12vh;
+margin-left: 62vw;
+}
+.txt2{
+    font-size: 100px;
+    color: white;
+    margin-top: 12vh;
+    margin-left: 35vw;
+
+}
+.img2{
+    border-radius: 100%;
+    height: 400px;
+    width: 400px;
+    margin-top: 15vh;
+    z-index: -1;
+    margin-left: 15vw;
+    position: absolute;
+}
+.txtm{
+    margin-left: 50vw;
+    margin-top: 30vh;
+    position: absolute;
+    color: white;
+    width: 400px;
+}
+.txtr{
+    font-size: 100px;
+    color: white;
+    margin-left: 10vw;
+    margin-top: 5vh;
+
+}
+.txtm2{
+    margin: 20px;
+    color: white;
+    font-size: x-large;
+    margin-top: 10vh;
+}
+.crc2{
+    border-radius: 100%;
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+ margin: 15px;
+ margin-top: 11vh;
+}
+.crc3{
+    border-radius: 100%;
+    height: 20px;
+    width: 20px;
+    background-color: rgb(158, 220, 255) ;
+ margin: 10px;
+ margin-top: 11vh;
+}
+.imgp{
+    border-radius: 10%;
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    height: 350px;
+    margin-left: 15vw;
+    margin-top: 6vh;
+}
+.txt228{
+    font-size: 60px;
+    color: blue;
+    margin-left: 36vw;
+    margin-top: 20vh;
+
+}
+.imgr{
+    border-radius: 10%;
+    position: absolute;
+    z-index: -2;
+    width: 300px;
+    height: 400px;
+    margin-left: 62vw;
+    margin-top: 35vh;
+}
+.txt229{
+    font-size: 60px;
+    color: blue;
+    margin-left: 54vw;
+    margin-top: 65vh;
+}
+.txt300{
+    font-size: 60px;
+    color: blue;
+    margin-left: 36vw;
+    margin-top: 37vh;
+}
+.imgs{
+    border-radius: 10%;
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    height: 350px;
+    margin-left: 15vw;
+    margin-top: 31vh;
+}
+.img5{
+    width: 350px;
+    height: 250px;
+    margin-left: 4vw;
+    margin-top: 6vh;
+}
+.txt5{
+    color: white;
+
+}
+.img6{
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    margin-top: 4vh;
+    margin-left: 25vw;
+}
+.txt80{
+position: absolute;
+color: blue;
+margin-left: 52vw;
+margin-top:0px ;
+font-size: x-large;
+}
+.txt7{
+    color: white;
+    margin-left: 52vw;
+    position: absolute;
+    margin-top: 65px;
+}
+.img10{
+    width: 350px;
+    height: 250px;
+    margin-left: 30vw;
+    margin-top: 12vh;
+}
+.txt500{
+    font-size: x-large;
+    margin-left: 30vw;
+    margin-top: 3vh;
+    color: blue;
+}
+.txt2000{
+    margin-left: 30vw;
+    margin-top:1vh;
+    color: white;
+}
+.pupu{
+    margin-left: 31vw;
+    margin-top: 4vh;
+}
